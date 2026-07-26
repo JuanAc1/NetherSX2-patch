@@ -1,4 +1,4 @@
-# ---------------------------------------------
+
 # PCSX2 Game Database!
 # ---------------------------------------------
 
@@ -273,7 +273,7 @@ PAPX-90502:
   region: "NTSC-J"
 PAPX-90503:
   name: "PoPoLoCrois - Hajimari no Bouken [Fan Gentei Disc]"
-  region: "NTSC-J"
+	  region: "NTSC-J"
 PAPX-90504:
   name: "Gran Turismo Concept - Airtrek Turbo Special Edition [Trial]"
   region: "NTSC-J"
